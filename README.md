@@ -1,4 +1,4 @@
-# The Life of a Packet: A Journey Through the Internet
+# What Happens When You Type google.co And Press Enter
 
 ## Overview
 This section demonstrates what happens behind the scenes when you visit a website, using YouTube as an example. We'll explore the fascinating journey of how your request travels through the internet to bring you the content you want. Every time you enter a URL in your browser, a complex series of events occurs in milliseconds to deliver the webpage to your screen.
